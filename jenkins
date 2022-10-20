@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "starting of job...."
+echo "hi venkatesh...
+do some calucations.."
+a=23
+b=43
+c=`expr $a + $b`
+echo "addition of two values $a $b is $c"
+echo "calucation completed"
+
